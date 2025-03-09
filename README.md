@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **retrieval-augmented generation**
 
-- 💬 Ask me about **Tensor flow, pytorch, keras...**
+- 💬 Ask me about **Tensor flow, pytorch, keras, scikit-learn, seaborn, matplotlib, **
 
 - 📫 How to reach me **davetsegaye526@gmail.com**
 
